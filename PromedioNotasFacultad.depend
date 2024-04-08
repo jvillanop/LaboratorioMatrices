@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1712608465 source:g:\mi unidad\umg\iii semestre\programacion i\promedio notas facultad\promedionotasfacultad\src\matrices.cpp
+	"matrices.h"
+	<iostream>
+	<iomanip>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1712608401 g:\mi unidad\umg\iii semestre\programacion i\promedio notas facultad\promedionotasfacultad\include\matrices.h
+	<string>
+
